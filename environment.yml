@@ -1,0 +1,7 @@
+name: IDOL
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pip=23.3.1
+  - nb_conda_kernels
